@@ -4,7 +4,6 @@ import {
   ResizeObserverEntry,
 } from '@juggle/resize-observer'
 import {ResizeObserverOptions} from '@juggle/resize-observer/lib/ResizeObserverOptions'
-
 /**
  * A React hook that fires a callback whenever ResizeObserver detects a change to its size
  *
